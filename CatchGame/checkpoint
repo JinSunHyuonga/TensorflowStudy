@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/jin/\353\260\224\355\203\225\355\231\224\353\251\264/tensorflow/CatchGame/model.ckpt"
+all_model_checkpoint_paths: "/home/jin/\353\260\224\355\203\225\355\231\224\353\251\264/tensorflow/CatchGame/model.ckpt"
